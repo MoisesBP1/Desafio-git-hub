@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+.marca{
+  font-family: 'Lobster', cursive;
+  font-family: 'Silkscreen', cursive;
+
+}
+
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
